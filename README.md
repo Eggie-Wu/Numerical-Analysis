@@ -12,6 +12,6 @@ https://www.amazon.com/Introduction-Numerical-Analysis-Endre-S%C3%BCli/dp/052100
 by Alfio Quarteroni, Riccardo Sacco, and Fausto Saleri
 https://www.amazon.com/Numerical-Mathematics-Texts-Applied/dp/3540346589
 
-3.Numerical Analysis
+3. Numerical Analysis
 by  Richard L. Burden, J. Douglas Faires, and Annette M. Burden
 https://www.amazon.com/Numerical-Analysis-Richard-L-Burden/dp/1305253663
