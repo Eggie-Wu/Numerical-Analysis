@@ -1,5 +1,5 @@
 # Numerical-Analysis
-Python implementations of some interesting numerical methods I learnt in Math 387 (Honours Numerical Analysis) at Mcgill.
+Python implementations of some interesting numerical methods I learnt in Math 387 Winter 2022 (Honours Numerical Analysis) at Mcgill.
 
 
 Some books I found interesting/useful:
