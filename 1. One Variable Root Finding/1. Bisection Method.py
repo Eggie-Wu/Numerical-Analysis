@@ -8,7 +8,7 @@ Print number of iterations and error.
 
 def bisection(function, lower_endpoint: float, upper_endpoint: float, error_bound: float):
     assert np.sign(function(lower_endpoint)) * np.sign(function(upper_endpoint)) <= 0 < error_bound \
-           and upper_endpoint >= lower_endpoint, "Input not valid'"
+           and upper_endpoint >= lower_endpoint, "Invalid endpoints or error_bound"
 
     n_iterations, error, root = 0, np.inf, None
 
